@@ -1,0 +1,22 @@
+/* src/components/Menu.css */
+.menu-container {
+    padding: 20px;
+  }
+  
+  .menu-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu-item h3 {
+    margin: 0;
+  }
+  
+  .menu-item p {
+    margin: 5px 0;
+  }
+  
